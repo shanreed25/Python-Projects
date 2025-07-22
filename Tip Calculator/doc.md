@@ -1,4 +1,4 @@
-Build Tip Calculator
+# Tip Calculator
 - User should be able to enter
   - the bill amount
   - the number times the bill needs to be split

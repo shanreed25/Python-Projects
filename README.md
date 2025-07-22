@@ -3,10 +3,10 @@
 # Projects
 Day-1 to Day-18 100days of code course
 
-- [Tip Calculator](Tip%20Calculator/doc.md)
-- [Treasure Island](Treasure%20Island%20Project/doc.md)
-- [Rock Paper Scissors](Rock%20Paper%20Scissors/doc.md)
-- [Password Generator](Password%20Generator%20Project/doc.md)
+- [Tip Calculator](./Calculators/doc.md)
+- [Treasure Island](./Treasure%20Island%20Project/)
+- [Rock Paper Scissors](./Rock%20Paper%20Scissors/doc.md)
+- [Password Generator](./Password%20Generator%20Project/doc.md)
 - [Hangman](Hangman%20Project/doc.md)
 - [Caesar Cipher](Caesar%20Cipher/doc.md)
 - [Blind Auction](Blind%20Auction%20Project)
