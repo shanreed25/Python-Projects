@@ -46,5 +46,6 @@ while game_is_on:
         my_turtle.start_again()# reset game
         move_increment += 10 # make the cars go faster
         level.level_up()# increase the level when a player crosses successfully
+        loop_num = 0
 
 screen.exitonclick()
