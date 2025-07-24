@@ -6,7 +6,6 @@ class ScoreBoard(Turtle):
         self.hideturtle()
         self.penup()
         self.color("white")
-        # self.pendown()
         self.l_score = 0
         self.r_score = 0
         self.update_scoreboard()
